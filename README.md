@@ -1,4 +1,4 @@
-# Docker ClamAV
+# Docker ClamAV 0.102.3-r0
 
 Docker container for starting a [ClamAV](http://www.clamav.net/) daemon.
 
